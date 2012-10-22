@@ -1,3 +1,7 @@
+*~
+test
+result/*.jpg
+
 *.py[co]
 
 # Packages
